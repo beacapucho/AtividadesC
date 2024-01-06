@@ -1,1 +1,1 @@
-# AtividadesC
+Programas simples em linguagem C.
